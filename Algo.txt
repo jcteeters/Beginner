@@ -1,1 +1,2 @@
 Hello World!
+Consider the implications of simultaneously speaking for your computer and the fact it could be speaking to you 
